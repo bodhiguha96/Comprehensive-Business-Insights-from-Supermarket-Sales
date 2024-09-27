@@ -1,4 +1,4 @@
-# Supermarket-Sales-Insights-PBI-SQ
+# Comprehensive Business Insights from Supermarket Sales
 **Project Overview:** This project provides a comprehensive analysis of supermarket sales data using Power BI and SQL. It includes a detailed dashboard that visualizes key metrics such as revenue, profit, transaction volume, and customer demographics. The project focuses on offering actionable insights that help understand sales performance, identify trends, and make data-driven business decisions.
 **Project Value:** The analysis highlights crucial insights such as revenue trends, profit margins, and peak sales periods. By automating data collection and visualization, this project reduces manual work and enhances strategic recommendations, improving overall process efficiency and decision-making capabilities.
 **Getting Started with the Project:** To get started, clone the repository and follow the setup instructions in the setup.md file. You'll need to have Power BI and a SQL environment configured. Load the provided datasets into your SQL database and connect Power BI to visualize and interact with the data. Detailed steps are included to help you through the process.
